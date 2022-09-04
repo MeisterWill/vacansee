@@ -1,3 +1,3 @@
 function testThing(){
-    alert("hhhhhhhh");
+    alert("Malware Uploaded >:(");
 }
