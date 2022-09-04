@@ -1,3 +1,3 @@
 function testThing(){
-    alert("Oh no!!");
+    alert(document.getElementById("fridgeInput").textContent);
 }
