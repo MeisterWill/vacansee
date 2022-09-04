@@ -8,7 +8,7 @@ function testThing(){
     request.send()
 
     request.onload = function(){
-        var responseObj = request.response;
+        var responseObj = request.response();
         alert(responseObj.message + "hello");
     }
 }
